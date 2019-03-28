@@ -31,7 +31,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Klarala13/Redux-Todo.git"
+    "url": "git+https://github.com/Klarala13/ToDo-List.git"
   },
   "keywords": [
     "React",
@@ -40,9 +40,9 @@
   "author": "Klara",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Klarala13/Redux-Todo/issues"
+    "url": "https://github.com/Klarala13/ToDo-List/issues"
   },
-  "homepage": "https://github.io/Klarala13/Redux-Todo",
+  "homepage": "https://github.io/Klarala13/ToDo-List",
   "dependencies": {
     "gh-pages": "^2.0.1"
   }
