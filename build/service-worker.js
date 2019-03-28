@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Klarala13/Redux-Todo/precache-manifest.bbf0e8f22a7469f96917c6d1bbaeddc9.js"
+  "/ToDo-List/precache-manifest.5d1c870a8cc4e75a285f100bfa0faa20.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Klarala13/Redux-Todo/index.html", {
+workbox.routing.registerNavigationRoute("/ToDo-List/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

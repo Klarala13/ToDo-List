@@ -42,7 +42,7 @@
   "bugs": {
     "url": "https://github.com/Klarala13/ToDo-List/issues"
   },
-  "homepage": "https://github.io/Klarala13/ToDo-List",
+  "homepage": "https://Klarala13.github.io/ToDo-List",
   "dependencies": {
     "gh-pages": "^2.0.1"
   }
