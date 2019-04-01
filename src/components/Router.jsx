@@ -5,7 +5,7 @@ import Help from "./Help";
 import NotFound from "./NotFound";
 
 const Router = () => (
-  <BrowserRouter>
+  <BrowserRouter basename={`${process.env.PUBLIC_URL}`}>
     <Switch>
       <Route exact path="/" component={App} />
       <Route path="/help" component={Help} />
