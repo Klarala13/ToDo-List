@@ -3,12 +3,11 @@
   "version": "1.0.0",
   "description": "A todo application using the basics of React and Redux",
   "scripts": {
-    "start": "react-scripts start",
+    "start": "react-scripts-start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "now-build": "react-scripts build"
   },
   "devDependencies": {
     "@fortawesome/fontawesome-free": "^5.5.0",
@@ -42,7 +41,7 @@
   "bugs": {
     "url": "https://github.com/Klarala13/ToDo-List/issues"
   },
-  "homepage": "https://Klarala13.github.io/ToDo-List",
+  "homepage": "https://Klarala13.github.io/ToDo-List/",
   "dependencies": {
     "gh-pages": "^2.0.1"
   }
